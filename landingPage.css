@@ -1,0 +1,210 @@
+#inicio{
+    position: relative;
+    top: -19px;
+    left: -10px;
+    background-color: #D0EBFF;
+    height: 620px;
+    width: 1521px;
+}
+#titulo1{
+    position: relative;
+    left: 270px;
+    top: 20px;
+    /* background-color: aqua; */
+    width: 98px;
+    height: 20px;
+}
+#complemento{
+    position: relative;
+    left: 56px;
+    top: -40px;
+    color: #1971C2;
+}
+#abas{
+    display: flex;
+    position: relative;
+    left: 560px;
+    top: -14px;
+    /* background-color: blueviolet; */
+    width: 350px;
+}
+#a{
+    color: #1971C2;
+    font-weight: 700;
+    font-family:sans-serif;
+}
+#b{
+    position: relative;
+    left: 40px;
+    color: #1971C2;
+    opacity: 0.7;
+    font-family:sans-serif;
+}
+#c{
+    position: relative;
+    left: 80px;
+    color: #1971C2;
+    opacity: 0.7;
+    font-family:sans-serif;
+}
+#d{
+    position: relative;
+    left: 120px;
+    color: #1971C2;
+    opacity: 0.7;
+    font-family:sans-serif;
+}
+#select{
+    position: relative;
+    left: 555px;
+    top: -50px;
+    width: 50px;
+    height: 2px;
+    background-color: #1971C2;
+}
+#servi{
+    position: relative;
+    left: 1070px;
+    top: -60px;
+    width: 160px;
+    height: 37px;
+    border-style: solid;
+    border-radius: 25px;
+    color: #1971C2;
+}
+#text1{
+    position: relative;
+    left: 24px;
+    top: -6px;
+    font-family:sans-serif;
+}
+#bemVindo{
+    position: relative;
+    top: 50px;
+    left: 270px;
+    font-size: 12px;
+    color: #1971C2;
+    width: 300px;
+    font-family:sans-serif;
+}
+#tituloPrinc{
+    position: relative;
+    left: 270px;
+    font-size: 52px;
+    /* background-color: black; */
+    width: 500px;
+    font-family:sans-serif;
+}
+#descri{
+    position: relative;
+    top: -22px;
+    left: 270px;
+    /* background-color: black; */
+    width: 460px;
+    font-family:sans-serif;
+}
+#botao{
+    position: relative;
+    left: 270px;
+    background-color: #1971C2;
+    width: 180px;
+    height: 40px;
+    border-radius: 12px;
+}
+#text2{
+    position: relative;
+    left: 35px;
+    top: 9.5px;
+    color: white;
+    font-family: sans-serif;
+}
+#resultados{
+    display: flex;
+    position: relative;
+    top: -80px;
+    left: 270px;
+    background-color: white;
+    height: 170px;
+    width: 990px;
+}
+#capacidades{
+    /* position: relative;
+    top: -19px;
+    left: -10px; */
+    margin-top: 143px;
+    height: 719px;
+    width: 1521px;
+    background-color: #ACDCF7;
+}
+#resu1{
+    position: relative;
+    left:125px;
+    top: 12px;
+    font-size: 40px;
+    font-family:sans-serif;
+    height: 45px;
+}
+#textop1{
+    position: relative;
+    top: 95px;
+    left: 25px;
+    font-family:sans-serif;
+    color: #1971C2;
+    font-weight: 400;
+    height: 20px;
+}
+#divi1{
+    position: relative;
+    top: 53px;
+    left: 135px;
+    height: 50px;
+    width: 1.5px;
+    background-color: #1971C2;
+    opacity: 0.5;
+}
+#resu2{
+    position: relative;
+    left:254px;
+    top: 12px;
+    font-size: 40px;
+    font-family:sans-serif;
+    height: 45px;
+}
+#textop2{
+    position: relative;
+    top: 95px;
+    left: 129px;
+    font-family:sans-serif;
+    color: #1971C2;
+    font-weight: 400;
+    height: 20px;
+}
+#divi2{
+    position: relative;
+    top: 53px;
+    left: 195px;
+    height: 50px;
+    width: 1.5px;
+    background-color: #1971C2;
+    opacity: 0.5;
+}
+#resu3{
+    position: relative;
+    left:310px;
+    top: 12px;
+    font-size: 40px;
+    font-family:sans-serif;
+    height: 45px;
+}
+#textop3{
+    position: relative;
+    top: 95px;
+    left: 230px;
+    font-family:sans-serif;
+    color: #1971C2;
+    font-weight: 400;
+    height: 20px;
+}
+#divi3{
+    
+}
